@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "deshboard-agent",
+  "private_key_id": "44589036e5a1c2bf55e5609eb92a4be339dbbdf8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC01C4k1IkynYNl\nRXK3k+ewV9qRjWEX0q/f2ZdoUkulhr+6i1T3k3Jg+jHhhXVzn12bLFcpdLQrCy+x\nC3/JF7bEvlXI2dFVl24IWpQk5BQQfD3mSS/yL3c2uPVIX3U9qN+/oW5Nr0GApWRk\nDcR/6Dw+R5FHfYLi1EZeGQTRwef8yDnt45csOn8iO5+vNrLb0J3A3ibkmQm1t2u3\nJiMts42zqPuDKLmae7l1cVi+USsXLDhfAo+x3mI6JKpELTfZddb127CpfA36LRO9\n2H8/myvXOyKPICDFl0N70iaGkWHHluZzCb1+SJPltPT6F1OuCVRpLfpTtJKFS/eY\nZEkwH2UTAgMBAAECggEAWmeeLkGn2gtPzsi6wrcKZWp21sAlI6Ds1vBVNw21ziqh\nHmVcdG5eB8fuOj7b6pNpXBP9+7biAIcWL+B84Y+ei5xRDRqBAtazZy/J0uvIcDl9\nRO2gL+e1JUGxN56p4crVGlxd5i7Rg7yshS0w6XW08LodEu3YCwlvqMm/VBMqpYCp\nhrdBjBr/R/4VbEp6ggGoftJV5s+hldvfMNRXvEjKH5aNfL7Ma9M9iwZ7Jyg5zI1C\nkzqBwPWE+f4ZTjmunW8wnAA5a1i3rrKwZeCGlrgA2XaHQo7EXlW4+hBjSIKl24o+\nXV7Y6SOJo/L7sTKWBOWHpRt1byXGXXYuB5U72n2UCQKBgQDlk+mMfOGDrwuzYzw+\nB44x75Ahsu3T4sWurDd+07fBXd/mdClDeC5cn2hf34bJpg2TdNPCWKbVXbXUWZ5Y\ngJKNMHqx7WzD8SWDWf2UZXa+bQqI4Q+XMZS2uABq/wJzaIsKXVrsJxt93MvVPOxF\nsINQakHEtItURSWg7F8KxtgIPwKBgQDJo/g2HaR6ci8rcrWPnerQwrYEL1oXIT6o\nvw3L86hZkFcaPIX09Ab0cw6apU5Gnu+ZjvB/7Hh0gtaVwGfowOAdm/ZbZRb6KFON\n+qqaycbcFdneM3+cVD7fji+/CdgfWdGI6IFVtk5rQe82mVeomi6W3Rc1i/Jf8Hdh\nlsA3662OLQKBgQCvxz/EDH4S+H0J/gpLKDfMrjN6SejlGjXn1v6qweppSLo9VmWd\nvjApRPiCp8ApN1YfuAzHOl+K8LRfAbtG4jLTnfHjt/lWUZY6azXIYKO5i/3L7h6k\n0haejGXthpFW0g3bgr0yIYNgLCV5gKsbdNomQSVYOjCP9l2oSDNBKhyQuwKBgEOw\nN3JzIPO5wPvk1e4QJPNPaaqd+rApCM+80vTUJn9qZNL53j4MbQlCVnSzaUNrtyLl\nSPaoewchpMdAf6EynglSgbDMjpoLT4Ep1HuBoK/g5fIhd4UTAsgpAv4uX86maCB9\nbG1JdamryJGbiEGhAGLEdTYUdJigMHMiGAStqOVBAoGAZxz6YEBgSQKkZqV4ZOtv\nA1hlk5FCbr0LLICLBsn4x4IzCz6ckTwu7f4GDfMWOrLdl78Mf4OCiEd5oXRxxTKQ\nY0FVfgDb06q9yrEYpKI+pdgdU3Q6107DAW+Pznbly1ZbcDW4q5l1HTnZ/ycNqkEA\n78bI04OELwO5F7snFVrNw4Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "agentdeshboard@deshboard-agent.iam.gserviceaccount.com",
+  "client_id": "104750833887952514499",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/agentdeshboard%40deshboard-agent.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
